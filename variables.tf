@@ -1,5 +1,5 @@
 variable "namespace" {
-    desdescription = "The project namespace to use for unique resource naming"
+    description = "The project namespace to use for unique resource naming"
     default = "s3backend"
     type = string
 }
