@@ -3,5 +3,5 @@
 *.tfstate
 *.tfstate.*
 terraform
-**/.terraform/(
+**/.terraform/*
 crash.log
